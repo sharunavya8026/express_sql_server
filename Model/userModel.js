@@ -1,6 +1,6 @@
 import db from "../Db/db.js";
 
-const table = "user";
+const table = "users";
 
 class UserModel {
 
